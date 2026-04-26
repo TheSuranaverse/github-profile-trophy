@@ -16,7 +16,7 @@
   You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
 </p>
 <div align="center">
-  <a href="https://github.com/sponsors/ryo-ma">
+  <a href="https://github.com/sponsors/TheSuranaverse">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" alt="Sponsor"/>
   </a>
 </div>
@@ -35,11 +35,9 @@
 >
 > Your support in the following ways would be greatly appreciated:
 >
-> 1. Financial support: [GitHub Sponsors](https://github.com/sponsors/ryo-ma)
+> 1. Financial support: [GitHub Sponsors](https://github.com/sponsors/TheSuranaverse)
 > 2. Reducing server load through self-hosting (by forking on GitHub and
 >    deploying to Vercel)
-> 3. Share your github-profile-trophy URL deployed to Vercel for load balancing
->    (Send email: saka_ro@yahoo.co.jp or Pull Request)
 
 # Load balancing endpoints
 
@@ -77,11 +75,11 @@ Add the following code to your readme. When pasting the code into your profile's
 readme, change the `?username=` value to your GitHub's username.
 
 ```
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheSuranaverse)](https://github.com/TheSuranaverse/github-profile-trophy)
 ```
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TheSuranaverse&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ## Use theme
@@ -618,7 +616,7 @@ Check [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
 # License
 
 This product is licensed under the
-[MIT License](https://github.com/ryo-ma/github-profile-trophy/blob/master/LICENSE).
+[MIT License](https://github.com/TheSuranaverse/github-profile-trophy/blob/master/LICENSE).
 
 # 🙏 Sponsors
 
